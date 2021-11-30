@@ -1,0 +1,50 @@
+{
+  "name": "sails-hook-req-validate-json-response",
+  "version": "0.0.1",
+  "description": "Ultimate Request Validator Hook for SailsJS",
+  "keywords": [
+    "sails-hook",
+    "sails",
+    "sails.js",
+    "hook",
+    "req-validate",
+    "request-validate",
+    "req-validator",
+    "request-validator",
+    "req-validation",
+    "request-validation",
+    "validator",
+    "validation",
+    "validate",
+    "json"
+  ],
+  "dependencies": {
+    "json5": "latest",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "sails": ">=1.0.0",
+    "lodash": "*",
+    "should": "*",
+    "mocha": "*"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HtunHtun97/sails-hook-req-validate-json-response.git"
+  },
+  "sails": {
+    "isHook": true
+  },
+  "author": {
+    "name": "Htun Htun"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HtunHtun97/sails-hook-req-validate-json-response/issues"
+  },
+  "homepage": "https://github.com/HtunHtun97/sails-hook-req-validate-json-response",
+  "scripts": {
+    "test": "mocha"
+  }
+}
