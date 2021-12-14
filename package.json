@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-req-validate-json-response",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ultimate Request Validator Hook for SailsJS",
   "keywords": [
     "sails-hook",
